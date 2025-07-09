@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import sys
 import asyncio
 import pandas as pd
